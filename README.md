@@ -1,6 +1,6 @@
 # Temperature_Gui_Project
-![status]()
-![license]()
+![status](http://cdn.pandorian.net/github/Development-Stopped-red.svg)
+![license](http://cdn.pandorian.net/github/license-GNU-blue.svg)
 
 # Supported Platforms
 <center>
