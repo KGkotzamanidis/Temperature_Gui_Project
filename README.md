@@ -1,6 +1,6 @@
 # Temperature_Gui_Project
-![status](https://github.com/KGkotzamanidis/Temperature_Gui_Project/blob/master/icons/StopDevelop.svg)
-![license](https://github.com/KGkotzamanidis/Temperature_Gui_Project/blob/master/icons/license-GNU-blue.svg)
+![status]()
+![license]()
 
 # Supported Platforms
 <center>
