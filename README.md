@@ -1,6 +1,6 @@
 # Temperature_Gui_Project
 ![status](http://cdn.pandorian.net/github/Development-Stopped-red.svg)
-[![license](https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/GPLv3_Logo.svg/200px-GPLv3_Logo.svg.png)]
+![license](https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/GPLv3_Logo.svg/200px-GPLv3_Logo.svg.png)
 
 # Supported Platforms
 <center>
