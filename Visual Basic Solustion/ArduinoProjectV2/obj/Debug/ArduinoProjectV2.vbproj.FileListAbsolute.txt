@@ -1,0 +1,11 @@
+c:\users\lastwarrior\documents\visual studio 2013\Projects\ArduinoProjectV2\ArduinoProjectV2\bin\Debug\ArduinoProjectV2.exe
+c:\users\lastwarrior\documents\visual studio 2013\Projects\ArduinoProjectV2\ArduinoProjectV2\bin\Debug\ArduinoProjectV2.pdb
+c:\users\lastwarrior\documents\visual studio 2013\Projects\ArduinoProjectV2\ArduinoProjectV2\bin\Debug\ArduinoProjectV2.xml
+c:\users\lastwarrior\documents\visual studio 2013\Projects\ArduinoProjectV2\ArduinoProjectV2\obj\Debug\ArduinoProjectV2.Resources.resources
+c:\users\lastwarrior\documents\visual studio 2013\Projects\ArduinoProjectV2\ArduinoProjectV2\obj\Debug\ArduinoProjectV2.vbproj.GenerateResource.Cache
+c:\users\lastwarrior\documents\visual studio 2013\Projects\ArduinoProjectV2\ArduinoProjectV2\obj\Debug\ArduinoProjectV2.exe
+c:\users\lastwarrior\documents\visual studio 2013\Projects\ArduinoProjectV2\ArduinoProjectV2\obj\Debug\ArduinoProjectV2.xml
+c:\users\lastwarrior\documents\visual studio 2013\Projects\ArduinoProjectV2\ArduinoProjectV2\obj\Debug\ArduinoProjectV2.pdb
+c:\users\lastwarrior\documents\visual studio 2013\Projects\ArduinoProjectV2\ArduinoProjectV2\obj\Debug\ArduinoProjectV2.MainForm.resources
+c:\users\lastwarrior\documents\visual studio 2013\Projects\ArduinoProjectV2\ArduinoProjectV2\bin\Debug\ArduinoProjectV2.exe.config
+C:\Users\LastWarrior\Documents\Visual Studio 2013\Projects\ArduinoProjectV2\ArduinoProjectV2\obj\Debug\ArduinoProjectV2.FireWarningPanel.resources
