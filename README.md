@@ -1,5 +1,5 @@
 # Temperature_Gui_Project
-<center>Collect environment temperature with Arduino board and Display in Visual Basic Solution</center>
+<center>Collect environment temperature with Arduino board and Display in Visual Basic Solution.   </center>
 ![status](http://cdn.pandorian.net/github/Development-Stopped-red.svg)
 ![license](http://cdn.pandorian.net/github/license-GNU-blue.svg)
 
